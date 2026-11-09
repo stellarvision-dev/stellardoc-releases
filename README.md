@@ -1,4 +1,4 @@
-# stellardoc
+# 별독
 
 **한글·워드 문서를 띄워 놓고, 옆에 있는 Claude 에게 말로 고치게 하는 프로그램.**
 
@@ -26,6 +26,8 @@
 ## 받기
 
 [**최신 버전 받기**](https://github.com/stellarvision-dev/stellardoc-releases/releases/latest) — `stellardoc_<버전>_x64-setup.exe` 를 받아 실행한다.
+
+> **1.0.0 을 쓰고 있다면** 앱 안의 자동 업데이트로는 1.0.1 을 받을 수 없다. 위 링크에서 설치 파일을 받아 한 번 직접 설치한다. 문서와 설정은 그대로 남고, 그다음 버전부터는 다시 자동으로 업데이트된다.
 
 - Windows 10·11 (64비트)
 - [Claude Code](https://claude.com/claude-code) 가 깔려 있고 로그인돼 있어야 한다.
